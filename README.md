@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Alex 👋
 
-<!--
-**alexperronnet/alexperronnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a french freelance **developer** and **designer**. I'm also an **open-source contributor** and a **content creator**.
 
-Here are some ideas to get you started:
+## Find Me Around The Web 🌎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Website:** https://alexperronnet.com
+
+**Follw me everywhere:** @alexperronnet
+
+## Contact Me ✉️
+
+I'm open to lots of new **opportunities**, **freelance** or a **fulltime position**. Feel free to contact me by email at alex@alexperronnet.com
