@@ -8,6 +8,6 @@ I'm open to lots of new **opportunities**, **freelance** or a **fulltime positio
 
 ## 🌎 Find Me Around The Web
 
-**Website:** <a href="https://alexperronnet.io" tareget="_blank">alexperronnet.io</a>
+**Website:** <a href="https://alexperronnet.io" target="_blank">alexperronnet.io</a>
 
 **Follw me everywhere:** @alexperronnet
