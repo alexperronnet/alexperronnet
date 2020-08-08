@@ -6,7 +6,7 @@ I'm a french freelance **developer** and **designer**. I'm also an **open-source
 
 I'm open to lots of new **opportunities**, **freelance** or a **fulltime position**. Feel free to contact me by email at alex@alexperronnet.io
 
-## 🌏 Find Me Arround the Web
+## 🌏 Find Me
 
 **Website:** [alexperronnet.io](https://alexperronnet.io)
 
